@@ -2,7 +2,7 @@
 
 An interactive prototype of a reading workspace for books, notes, and the connections between ideas.
 
-[Open the demo](https://marziehzzare.github.io/bibliotheca/) after GitHub Pages is enabled.
+[Open the public demo](https://marziehzzare.github.io/bibliotheca/).
 
 ## What this release is
 
